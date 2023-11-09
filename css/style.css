@@ -2704,3 +2704,8 @@
         z-index: 111;
         position: relative;
     }
+    .head1{
+        background: #0b0b0b;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }

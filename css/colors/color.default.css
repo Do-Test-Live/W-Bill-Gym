@@ -92,7 +92,7 @@ a:hover,
 .gd-blog-comments-list .media .media-body .gd-blog-comments-reply:hover,
 .gd-info-dis ul li a i:hover,
 .gd-checkout a:hover {
-    color: #e83d47;
+    color: #a68f7a;
 }
 
 .fas.fa-star,
@@ -121,7 +121,7 @@ a:hover,
 .gd-infos>[class^="flaticon-"]::before,
 .gd-infos>a,
 .cart-outer .remove-btn {
-    color: #e83d47;
+    color: #a78f7b;
 }
 
 .btn,
@@ -145,7 +145,7 @@ a:hover,
 .swtching-icon,
 .mean-container a.meanmenu-reveal span,
 .gd-infos>a:hover {
-    background: #e83d47;
+    background: #a78f7b;
 }
 
 .gd-trainer .gd-skillbar-title,
@@ -170,7 +170,7 @@ a:hover,
 .gd-single-product-infos a.btn:hover,
 .gd-infos>a,
 .gd-infos>a:hover {
-    border-color: #e83d47;
+    border-color: #a78f7b;
 }
 
 .form-group input[type="text"],
@@ -258,7 +258,7 @@ h6,
 .gd-event-details .gd-event-meta::after,
 .single-item .item-img-wrapper::after,
 .gd-blog-details .gd-blog-meta::after {
-    background: rgba(232, 61, 71, 0.6);
+    background: #a78f7b;
 }
 
 .gd-event-info a,
