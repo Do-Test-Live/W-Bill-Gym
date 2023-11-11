@@ -357,7 +357,7 @@ hr {
 }
 
 .overlay-default:before {
-    background: rgba(0, 0, 0, 0.6);
+    background: rgb(0 0 0 / 8%);
 }
 
 section [class^="flaticon-"]::before {
