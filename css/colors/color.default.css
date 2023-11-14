@@ -258,7 +258,7 @@ h6,
 .gd-event-details .gd-event-meta::after,
 .single-item .item-img-wrapper::after,
 .gd-blog-details .gd-blog-meta::after {
-    background: #a78f7b;
+    background: rgba(167, 143, 123, 0);
 }
 
 .gd-event-info a,
@@ -429,9 +429,20 @@ section [class^="flaticon-"]::before {
 }
 
 .gd-header-area {
+    display: flex;
     background: rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
 }
 
 .gd-white-space {
     background: #F9F9F9;
+}
+
+
+
+@media only screen and (max-width: 992px) {
+    .gd-header-area {
+        display: block;
+    }
 }

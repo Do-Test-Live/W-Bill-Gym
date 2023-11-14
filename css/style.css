@@ -516,9 +516,9 @@
     
     .dg-main-menu ul li {
         display: inline-block;
-        margin-left: 30px;
+        margin-left: 20px;
         position: relative;
-        font-size: 14px;
+        font-size: 12px;
     }
     
     .dg-main-menu ul li:last-child {
@@ -2715,4 +2715,19 @@
         background: #0b0b0b;
         padding-top: 50px;
         padding-bottom: 50px;
+    }
+
+    .main-banner{
+        background-image: url("../img/slider/1-1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+
+    @media only screen and (max-width: 992px) {
+        .text, .cover{
+            padding-left: 20px;
+            width: 80%;
+        }
     }
