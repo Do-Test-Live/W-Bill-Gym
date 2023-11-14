@@ -2723,7 +2723,14 @@
         background-size: cover;
         background-position: center;
     }
-
+.main-banner-fitness
+{
+    background-image: url("../img/new/fitnesscover.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 67px;
+}
 
     @media only screen and (max-width: 992px) {
         .text, .cover{
