@@ -2739,6 +2739,14 @@
     background-position: center;
     margin-top: 67px;
 }
+    .main-banner-fitness2
+    {
+        background-image: url("../img/new/fit1.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-top: 67px;
+    }
     .main-banner-planning
     {
         background-image: url("../img/new/gym.webp") ;
