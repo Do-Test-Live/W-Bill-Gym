@@ -4278,6 +4278,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
     background-clip: border-box;
 /*    border: 1px solid rgba(0, 0, 0, .125);*/
     border-radius: .25rem
+
 }
 
 .card > hr {
@@ -4377,6 +4378,8 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
     width: 100%;
     border-top-left-radius: calc(.25rem - 1px);
     border-top-right-radius: calc(.25rem - 1px)
+
+
 }
 
 .card-img-bottom {

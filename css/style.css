@@ -379,7 +379,15 @@
     .btn.btn-normal {
         padding: 7px 26px;
     }
-    
+    .btn.btn-blackk {
+        padding: 7px 26px;
+        background-color: #333333;
+
+    }
+    .btn.btn-blackk:hover
+    {
+        background: black;
+    }
     .btn.btn-large {
         padding: 14px 26px;
     }
@@ -2731,7 +2739,15 @@
     background-position: center;
     margin-top: 67px;
 }
+    .main-banner-planning
+    {
+        background-image: url("../img/new/gym.webp") ;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
 
+
+    }
     @media only screen and (max-width: 992px) {
         .text, .cover{
             padding-left: 20px;
