@@ -2747,6 +2747,48 @@
         background-position: center;
         margin-top: 67px;
     }
+    .main-banner-fitness3
+    {
+        background-image: url("../img/new/fit2.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-top: 67px;
+    }
+    .main-banner-fitness4
+    {
+        background-image: url("../img/new/fit4.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-top: 67px;
+    }
+    .main-banner-gym1
+    {
+        background-image: url("../img/new/img_2.png");
+        background-repeat: no-repeat;
+     /*   background-size: cover;*/
+        background-position: center;
+        margin-top: 67px;
+    }
+    .main-banner-gym2
+    {
+        background-image: url("../img/new/img_10.png");
+        background-repeat: no-repeat;
+     /*   background-size: cover;*/
+        background-position: center;
+        margin-top: 67px;
+
+    }
+    .main-banner-gym3
+    {
+        background-image: url("../img/new/img_13.png");
+        background-repeat: no-repeat;
+        /*   background-size: cover;*/
+        background-position: center;
+        margin-top: 67px;
+
+    }
     .main-banner-planning
     {
         background-image: url("../img/new/gym.webp") ;
