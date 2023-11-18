@@ -2738,8 +2738,16 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    margin-top: 67px;
+
 }
+    .main-banner-contact
+    {
+        background-image: url("../img/new/img_19.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-top: 67px;
+    }
     .main-banner-fitness2
     {
         background-image: url("../img/new/fit1.webp");
@@ -2755,6 +2763,7 @@
         background-size: cover;
         background-position: center;
         margin-top: 67px;
+        margin-bottom: -9px;
     }
     .main-banner-fitness4
     {
@@ -2763,6 +2772,7 @@
         background-size: cover;
         background-position: center;
         margin-top: 67px;
+        margin-bottom: -9px;
     }
     .main-banner-gym1
     {
@@ -2804,7 +2814,9 @@
         background-image: url("../img/new/gym.webp") ;
         background-repeat: no-repeat;
         background-position: center;
-        background-size: cover;
+    background-size: cover;
+        margin-top: 40px;
+        margin-bottom: -46px;
 
 
     }
