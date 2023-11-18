@@ -2728,8 +2728,9 @@
     .main-banner{
         background-image: url("../img/slider/1-1.jpg");
         background-repeat: no-repeat;
-        background-size: cover;
+      background-size: cover;
         background-position: center;
+
     }
 .main-banner-fitness
 {
@@ -2783,6 +2784,15 @@
     .main-banner-gym3
     {
         background-image: url("../img/new/img_13.png");
+        background-repeat: no-repeat;
+        /*   background-size: cover;*/
+        background-position: center;
+        margin-top: 67px;
+
+    }
+    .main-banner-gym5
+    {
+        background-image: url("../img/new/img_16.png");
         background-repeat: no-repeat;
         /*   background-size: cover;*/
         background-position: center;
